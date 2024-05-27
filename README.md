@@ -11,7 +11,7 @@ This project performs sentiment analysis on Amazon reviews for the graphic novel
 - [Author](#author)
 
 #### Features
-- Scrapes Amazon reviews for the graphic novel "Maus" using web scraping techniques.
+- Scrapes Amazon reviews current link is doing for the graphic novel "Maus" using web scraping techniques.
 - Analyzes sentiment using TextBlob, classifying each review as positive, negative, or neutral.
 - Visualizes the sentiment distribution with a bar chart.
 - Provides insights into the overall sentiment of the reviews.
