@@ -35,7 +35,19 @@ Clone this repository to your local machine:
     ```bash
     python scrape_amazon_reviews.py
     ```
+- Go to <b>scrape_amazon_reviews.py</b>
+```cd scrape_amazon_reviews.py```
 
+- Replace the url link with your requierd url and run command
+Run commands and your Sentimental would be on screen
+  ```bash
+  python scrape_amazon_reviews.py
+  ```
+  then 
+  ```bash
+  python sentiment_analysis.py
+  ```
+     
 #### Sentiment Analysis Methodology
 - The script utilizes the TextBlob library for sentiment analysis.
 - Each review is classified as positive, negative, or neutral based on the polarity score obtained from TextBlob.
